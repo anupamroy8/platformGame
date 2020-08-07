@@ -1,5 +1,5 @@
 .background {
-  background: rgb(52, 166, 251);
+  background: rgb(52, 251, 128);
   table-layout: fixed;
   border-spacing: 0;
 }
@@ -10,13 +10,13 @@
   background: rgb(255, 100, 100);
 }
 .wall {
-  background: white;
+  background: rgb(252, 252, 252);
 }
 .actor {
   position: absolute;
 }
 .coin {
-  background: rgb(241, 229, 89);
+  background: rgb(255, 239, 60);
 }
 .player {
   background: rgb(64, 64, 64);
